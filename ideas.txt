@@ -1,0 +1,25 @@
+-------------------------- IDEIAS --------------------------------
+1 - Trazer dados calóricos e valores nutricionais sobre os alimentos
+2 - Encontrar uma forma de certificação dos produtos (selo) que ateste o que está sendo vendido, este selo pode ser fornecido por auditorias de terceiros, OAC como TECPAR, IBD e EcoCert
+3 - Investir em táticas de ecologicamente correto (low carbon footprint)
+4 - Pedir o máximo de dados possíveis sobre o consumidor (necessidade valores e crenças), assim o vendedor terá maior assertividade em seus anúncios dentro da plataforma.
+5 - Um produtor orgânico pode ser tanto o da matéria prima quanto de derivados, assim, a plataforma também pode ser diversa em linhas de fornecedores e produtos.
+6 - Rede colaborativa, com espaço de comunidade para a melhoria de processos e compartilhamento de ideias da produção de alimentos entre os produtores e fornecedores de insumos agrícolas.
+7 - Abrir espaço para que especialistas, acadêmicos e laboratórios possam analisar e solucionar problemas ligados ao cultivo de produtos orgânicos, dando mais suporte aos produtores.
+8 - Aba de boas vindas ao novo produtor com informações sobre certificações de produtos, pontos de vendas em potencial e fornecedores de matéria prima para agricultura.
+9 - Alguma forma do consumidor escolher um estilo de dieta, assim um marketing mais assertivo pode ser feito ao cliente, entregando mais valor.
+10 - Mapa de pontos de venda com horário de funcionamento e informações mais aprofundadas sobre o pdv, para os consumidores.
+11 - Relação de preços atualizada e certificações dos produtos (selos) nos pontos de venda;
+12 - Blog sobre produtos orgânicos (trazer influencers da área, instagram, facebook, youtube), modelo reels, onde o cliente pode conferir receitas, dicas e tendências dos produtos orgânicos.
+13 - Expor avaliações do PDV (opiniões notas e comentários das suas vendas anteriores);
+14 - Área de boas-vindas para novos clientes, onde podem encontrar dicas e contatos de nutricionistas e influencers em sua região.
+15 - Possibilitar a venda direta entre produtor e consumidor;
+16 - Possibilitar a abertura de uma ordem de compra, onde um gerente de um grande mercado pode abrir uma requisição de toneladas de um produto e a mesma pode ser dividida em várias partes entregues por produtores locais.
+17 - Possibilitar um leilão onde os produres podem acessar as ofertas dos grandes mercados.
+18 - Avaliação de entregas do produtor, com gráficos e estatíscas levando em conta todas as suas entregas na plataforma
+19 - Área jurídica, onde os mercados podem fazer contratos entre as partes quando ocorre a venda de uma porcentagem da ordem de compra para um fornecedor.
+20 - Ter uma listagem de sugestão de produtos aparecendo para os mercados e para os produtores. Como hortaliças
+21 - Sugerir vendas por sazonalidade, por exemplo, época de safra de morango ou safra de caqui.
+21 - Área para os produtores postarem vagas saozonais para mão de obra pontual, como acontece em hotelarias em final de ano
+21 - Área para empresas de embalagens e gráficas para rótulos com preço competitivo.
+22 - Dar ao produtor a opção de fornecimento de produtos orgânicos como não orgânicos, caso opte por orgânicos deve ter uma certificação válida ou será redirecionado para a página onde mostra como obter uma certificação de produtor orgânico.
