@@ -68,7 +68,7 @@
 
 ---
 
-## Persona 4: Carlos, 38 anos, gerente de mercado
+## Persona 4: Carlos, 42 anos, gerente de mercado
 
 - **Idade**: 38 anos
 - **Profissão**: Gerente de um mercado local
