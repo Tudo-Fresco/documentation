@@ -1,0 +1,87 @@
+## Persona 1: Helena, 32 anos, mãe de 3 filhas
+
+1. Pesquisar por produtos organicos na região.
+2. Comprar um produto organico.
+3. Avaliar o produto comprado.
+
+
+## Persona 2: Marcos, 45 anos, produtor orgânico
+
+1. Disponibilizar um produto para venda.
+2. Vender um produto.
+3. Repor o estoque.
+4. Abrir um leilão de um prodcuto específico.
+5. Ofertar em um leilão.
+
+
+## Persona 3: Ana, 29 anos, nutricionista
+
+1. Procurar por um produto específico.
+2. Enviar o link público do produto para seu cliente.
+
+
+## Persona 4: Carlos, 42 anos, gerente de mercado.
+
+1. Abrir vários leilões de compra.
+2. Abrir um disputa caso haja algum problema com a compra.
+3. Abrir leilões de venda.
+4. Avaliar as compras feitas.
+5. Comprar diretamente sem leilão.
+
+
+Personas priorizadas: 2 e 4
+
+
+## Persona 2: Marcos, 45 anos, produtor orgânico
+
+Passos a serem feitos pelo usuário após o mesmo ter seu cadastro e da sua loja feitos.
+
+1. Disponibilizar um produto para venda.
+    1. Cadastrar o produto.
+    2. Cadastrar a quantidade disponível.
+    3. Cadastrar o preço.
+    4. Cadastrar o custo.
+2. Vender um produto.
+    1. Aceitar o pedido de compra.
+    2. Receber o pagamento.
+    3. Entregar e atualizar o status da venda.
+3. Repor o estoque.
+    1. Atualizar a quantidade disponível de cada produto que o cliente tem em sua loja.
+4. Abrir um leilão de um prodcuto específico.
+    1. Selecionar o produto desejado.
+    2. Atribuir o preço do leilão.
+    3. Atribuir data de validade.
+    4. Criar leilão.
+5. Ofertar em um leilão.
+    1. Visualizar leilões disponíveis por produto e data de validade.
+    2. Escolher um leilão específico.
+    3. Atribuir o preço de oferta e o prazo de entrega.
+    4. Ofertar
+
+
+## Persona 4: Carlos, 42 anos, gerente de mercado.
+Passos a serem feitos pelo usuário após o mesmo ter seu cadastro e da sua loja feitos.
+
+1. Abrir vários leilões de compra.
+    1. Selecionar um produto previamente cadastrado.
+    2. Abrir um leilão de compra.
+    3. Selecionar a quantidade.
+    4. Atribuir o preço de compra.
+    5. Atribuir prazo de validade.
+    6. Abrir o leilão
+2. Abrir um disputa caso haja algum problema com a compra.
+    1. Visualizar todas as compras feitas.
+    2. Selecionar uma compra.
+    3. Abrir a disputa.
+3. Abrir leilões de venda.
+    1. Selecionar o produto.
+    2. Precificar.
+    3. Atribuir prazo de validade.
+    4. Abrir o leilão.
+4. Avaliar as compras feitas.
+    1. Visualizar compras feitas.
+    2. Atribuir uma nota.
+5. Comprar diretamente sem leilão.
+    1. Ver produtos disponíveis na região ou ver lojas da região.
+    2. Escolher a loja ou o produto.
+    3. Comprar o produto.

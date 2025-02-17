@@ -1,12 +1,13 @@
 1 - Comprar um produto
     1- CRUD produto
     
-
 2 - Vender um produto
+
 3 - Dar lance num produto
 4 - Aceitar o lance do produto
 5 - Cadastrar produto
 6 - Cadastrar usuário
 7 - Cadastrar ponto de venda
 8 - Procurar produtos no mapa
-9 - Mostrar sugestão de produtos ao pesuquisar na barra
+9 - Mostrar sugestão de produtos ao pesquisar na barra
+
