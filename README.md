@@ -1,6 +1,6 @@
 # Tudo Fresco - Sistema de Gestão de Alimentos
 
-![Tudo Fresco Logo](./logo.webp)
+![Tudo Fresco Logo](./logo.png)
 
 **Tudo Fresco** é uma plataforma que conecta **produtores locais** a **compradores institucionais e comerciais** interessados em adquirir alimentos frescos de forma direta, justa e eficiente. A proposta da plataforma é incentivar o consumo consciente, a produção sustentável e o fortalecimento da economia local, permitindo que grandes demandas sejam atendidas por diversos pequenos produtores.
 
