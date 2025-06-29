@@ -69,7 +69,7 @@ Se você deseja contribuir para o projeto **Tudo Fresco**, siga estas etapas:
 
 - **Frontend**: React
 - **Backend**: Python
-- **Banco de Dados**: PostgreSQL, Firestore
+- **Banco de Dados**: PostgreSQL
 - **Autenticação**: JWT, OAuth
 - **Infraestrutura**: Google Cloud Platform
 
