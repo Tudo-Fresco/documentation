@@ -1,4 +1,4 @@
-# Tudo Fresco - Sistema de Gestão de Alimentos
+# Tudo Fresco - Plataforma Colaborativa Para Comércio De Alimentos
 
 ![Tudo Fresco Logo](./logo.png)
 
